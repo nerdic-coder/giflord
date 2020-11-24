@@ -1,0 +1,7 @@
+{
+  "name": "GIFLord",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
